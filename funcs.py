@@ -5,3 +5,8 @@ def add():
 add()
 
 
+def subt():
+    print(4 - 2)
+
+
+subt()
